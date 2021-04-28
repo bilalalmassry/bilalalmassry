@@ -1,9 +1,6 @@
-### Hi there 👋
-<head>
-  <meta name="google-site-verification" content="efXsg92C_DZIOSdp38FezQOqe_0EJRo2ZIUN4lchWh8" />
-  </head>
+<h1 align="center"> Hi there 👋 </h1>
 
-- 🌱 I’m currently learning about **Databases**
+<h2 align="center"> 🌱 I’m currently learning about Databases </h2>
 <!-- google-site-verification: googlea6b6ad1e9555ccda.html -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
